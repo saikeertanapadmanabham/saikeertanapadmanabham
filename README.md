@@ -39,7 +39,7 @@ From **Hyderabad to Los Angeles**, my journey has been about transforming comple
 - Redesigned the Loker Student Union website, boosting user engagement by 30% and improving performance by 40% through HTML, CSS, and JavaScript.
 - Customized content, optimized navigation, and integrated interactive features, enhancing accessibility and user interaction.
 
-### Student Intern | Cedars-Sinai  
+### Student Intern | Cedars-Sinai
 *August 2023 – December 2023*  
 - Led a cancer genomics analysis project with Cedars-Sinai, applying machine learning algorithms (Random Forest, SVM, Neural Networks) to classify cancer types and enhance personalized treatment. Proficient in Python, Pandas, NumPy, and Scikit-Learn for data analysis and model development.
   
@@ -48,7 +48,7 @@ From **Hyderabad to Los Angeles**, my journey has been about transforming comple
 - Engineered data pipelines for Farmers Data Repository, improving processing efficiency by 35% and achieving 99.8% accuracy in data migration using Informatica PowerCenter, DB2, and Snowflake.
 - Optimized ETL workflows, reduced system downtime by 30%, and automated unit testing, enhancing data quality with a 98.7% F1 score.
   
-###  Analyst | Teleperformance (Google Waymo Project)  
+###  Analyst | Teleperformance, India (Google Waymo Project)  
 *August 2018 – November 2019*  
 - Analyzed large datasets from Waymo’s autonomous driving systems, improving data accuracy by 30% and enhancing object detection algorithms by 15%. 
 ---
