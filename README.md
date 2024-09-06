@@ -56,29 +56,19 @@ From **Hyderabad to Los Angeles**, my journey has been about transforming comple
 ## 🛠️ Skills
 
 - **Methodologies:** SDLC, Agile (including Jira), Waterfall
-
 - **Programming Languages:** Python, Pandas, NumPy, SQL, C, Unix Shell, HTML, CSS, jQuery, JavaScript
-
 - **Data Visualization:** Tableau, Power BI
-
 - **Web Development:** WordPress, Bootstrap, React, Angular
-
 - **Data Integration:** Informatica PowerCenter, Guidewire Policy Center
-
 - **Database Management:** DB2, Snowflake, MySQL, Oracle
-
 - **Version Control:** Git, GitHub
-
 - **Tools and Platforms:** Autosys, Jenkins
-
 - **Machine Learning Frameworks:** Scikit-Learn, TensorFlow
-
 - **Analytics and Reporting:** Business Intelligence, Data Marts, Data Validation
-
 - **Soft Skills:** Time Management, Analytical Skills, Communication Skills, Multitasking, Leadership
 
 ---
-## Certifications & Rewards
+## 📜 Certifications & Rewards
 
 - **AWS Cloud Quest**: Cloud Practitioner
 - **Career Essentials in Generative AI** by Microsoft and LinkedIn
