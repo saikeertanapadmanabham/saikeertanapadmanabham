@@ -2,7 +2,7 @@
 
 📍 **Location:** Lawreceville, Georgia  
 📧 **Email:** [padmanabhamsaikeertana@gmail.com](mailto:padmanabhamsaikeertana@gmail.com)  
-🔗 **LinkedIn:** [Sai Keertana Padmanabham](https://www.linkedin.com/in/keertanapadmanabham/)  
+🔗 **LinkedIn:** [Sai Keertana Padmanabham](https://www.linkedin.com/in/saikeertanapadmanabham/)  
 🔗 **Portfolio:** [Portfolio](https://sai-keertana-padmanabham.netlify.app/)  
 📞 **Phone:** +1 [(424)-426-9989]
 
